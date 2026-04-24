@@ -1,14 +1,93 @@
-### RenatoReinamtl
-- 👨🏻‍🎓 Formado pela FIAP em Gestão Estratégica de Negócios
-- 📖 Leitor
-- 💻 Desenvolvo usando IA - não sou programador - mas ajuda no meu dia a dia de Product Manager
+<h1 align="center">Renato Reina</h1>
+ 
+<p align="center">
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  Product Owner | Gestão de Produtos | Agilidade | Foco em valor de negócio
+</p>
+ 
+---
+ 
+## Contato
+ 
+<div align="center">
+ 
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+ 
+  <a href="mailto:SEUEMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+ 
 </div>
+ 
+---
+ 
+## Sobre
+ 
+Product Owner com experiência na definição e evolução de produtos digitais, atuando como ponte entre negócio e tecnologia.
+ 
+Foco na entrega contínua de valor, priorização estratégica de backlog e alinhamento entre stakeholders, garantindo que as soluções atendam às necessidades do usuário e aos objetivos do negócio.
+ 
+---
+ 
+## Atuação
+ 
+- Definição e priorização de backlog
+
+- Escrita de histórias de usuário e critérios de aceite
+
+- Gestão de roadmap de produto
+
+- Acompanhamento de métricas e resultados
+
+- Comunicação com stakeholders
+
+- Suporte ao time de desenvolvimento
+ 
+---
+ 
+## Metodologias
+ 
+<div align="center">
+ 
+Kanban • Scrum • Lean • Discovery • Delivery
+ 
+</div>
+ 
+---
+ 
+## Ferramentas
+ 
+<div align="center">
+ 
+Jira • Confluence • Trello • Figma • Miro
+ 
+</div>
+ 
+---
+ 
+## Principais competências
+ 
+- Visão de produto orientada a valor
+
+- Tomada de decisão baseada em dados
+
+- Comunicação clara e objetiva
+
+- Priorização e gestão de demandas
+
+- Trabalho colaborativo com times multidisciplinares
+ 
+---
+ 
+## Experiência em produtos
+ 
+Atuação em produtos digitais com foco em melhoria contínua, otimização de processos e evolução de funcionalidades, sempre alinhando estratégia de negócio com execução técnica.
+ 
+---
+ 
+## Objetivo
+ 
+Contribuir como Product Owner na construção de produtos relevantes, escaláveis e centrados no usuário, promovendo eficiência, qualidade e geração de valor para o negócio.
+ 
