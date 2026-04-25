@@ -64,8 +64,6 @@ Kanban • Scrum • Lean • Discovery • Delivery
 ## Ferramentas
  
 <div align="center">
- 
-Jira • Confluence • Trello • Figma • Miro
 
 <h3>Ferramentas que utilizo no dia a dia</h3>
 
