@@ -184,5 +184,5 @@ Atuação em produtos digitais com foco em melhoria contínua, otimização de p
  
 ## Objetivo
  
-Contribuir como Product Owner na construção de produtos relevantes, escaláveis e centrados no usuário, promovendo eficiência, qualidade e geração de valor para o negócio.
+Contribuir como Product Manager na construção de produtos relevantes, escaláveis e centrados no usuário, promovendo eficiência, qualidade e geração de valor para o negócio.
  
