@@ -29,7 +29,7 @@
  
 ## Sobre
  
-Product Owner com experiência na definição e evolução de produtos digitais, atuando como ponte entre negócio e tecnologia.
+Product Manager com experiência na definição e evolução de produtos digitais, atuando como ponte entre negócio e tecnologia.
  
 Foco na entrega contínua de valor, priorização estratégica de backlog e alinhamento entre stakeholders, garantindo que as soluções atendam às necessidades do usuário e aos objetivos do negócio.
  
