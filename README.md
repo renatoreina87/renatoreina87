@@ -90,13 +90,8 @@ Kanban • Scrum • Lean • Discovery • Delivery
 <h2>Portfólio de Produtos com GenAI</h2>
 
 <p>
-  Nesta seção, reúno produtos, protótipos e experimentações criadas com apoio de Inteligência Artificial Generativa, 
-  combinando visão de produto, discovery, prototipação rápida e ferramentas low-code/no-code.
-</p>
-
-<p>
-  O objetivo é transformar hipóteses de negócio em soluções navegáveis, permitindo validação rápida de jornadas, 
-  proposta de valor, usabilidade e aderência ao problema do usuário.
+  Produtos, protótipos e soluções digitais criadas com apoio de Inteligência Artificial Generativa, 
+  utilizando ferramentas como Replit, Lovable e fluxos de desenvolvimento assistido por IA.
 </p>
 
 <table>
@@ -104,56 +99,16 @@ Kanban • Scrum • Lean • Discovery • Delivery
     <td width="50%">
       <h3>Portal Municipal — Serviços na Palma da Mão</h3>
       <p>
-        Solução conceitual voltada para o setor público, com foco em centralizar serviços municipais 
-        em uma experiência digital simples, acessível e orientada ao cidadão.
-      </p>
-      <p>
-        <strong>Objetivo:</strong> demonstrar como uma prefeitura pode oferecer serviços digitais 
-        de forma mais intuitiva, reduzindo atritos na jornada do cidadão e melhorando a percepção 
-        de eficiência da gestão pública.
+        Protótipo de portal digital voltado à experiência do cidadão, com foco em facilitar o acesso 
+        a serviços públicos municipais de forma simples, intuitiva e responsiva.
       </p>
       <p>
         <img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
-        <img src="https://img.shields.io/badge/UX%20Prototype-FFB000?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/GovTech-0052CC?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Product%20Discovery-0A66C2?style=for-the-badge"/>
       </p>
       <a href="https://white-label-create.replit.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Visualizar%20Projeto-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-      </a>
-    </td>
-
-    <td width="50%">
-      <h3>DataGov360 — Inteligência Estratégica para Gestão Municipal</h3>
-      <p>
-        Plataforma conceitual de inteligência de dados voltada para a gestão pública municipal, 
-        com foco em transformar dados brutos de diferentes sistemas governamentais em informações 
-        estratégicas, táticas e operacionais para apoiar a tomada de decisão.
-      </p>
-      <p>
-        <strong>Objetivo:</strong> demonstrar como indicadores públicos, como IEGM, IFiscal, arrecadação, 
-        saúde, educação e planejamento, podem ser organizados em uma visão 360º da administração municipal, 
-        apoiando uma gestão mais analítica, eficiente e orientada por dados.
-      </p>
-      <p>
-        <strong>Discovery:</strong> o projeto contemplou levantamento de requisitos, mapeamento de fontes 
-        de dados municipais, definição de KPIs, estruturação de regras de negócio, priorização de MVP 
-        e organização das jornadas por níveis de gestão: estratégico, tático e operacional.
-      </p>
-      <p>
-        <strong>Prototipação:</strong> o protótipo foi criado com apoio do Lovable, permitindo validar 
-        rapidamente dashboards, filtros, visualizações de indicadores, navegação por drill-down e 
-        experiências orientadas aos diferentes perfis de usuários públicos.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Lovable-FF5A5F?style=for-the-badge&logo=lovable&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Product%20Discovery-0A66C2?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/Data%20Driven-1F7A8C?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/GovTech-0052CC?style=for-the-badge"/>
-      </p>
-      <a href="https://SEU-LINK-DO-LOVABLE-AQUI" target="_blank">
-        <img src="https://img.shields.io/badge/Visualizar%20Projeto-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Acessar%20Produto-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
   </tr>
