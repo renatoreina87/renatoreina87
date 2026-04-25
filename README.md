@@ -42,13 +42,16 @@ Cases e análises de mercado.
  
 ## Atuação
  
--Priorização de backlog orientada a OKRs e métricas de negócio (NPS, MRR, TPV, CAC);
--Discovery acelerado com IA — redução de ciclo de 6 para 2 semanas;
--Escrita de PRDs, User Stories e critérios de aceite para contextos regulados (B2G/fintech);
--Integrações técnicas com APIs e Webhooks;
--Gestão de roadmap em ambientes com restrição regulatória e múltiplos stakeholders;
--Interface entre squads de engenharia, UX, C-Level e gestores de governo.
-
+<details>
+  <summary><b>🛠 Expertise Técnica e de Produto</b></summary>
+  <ul>
+    <li>Priorização de backlog orientada a OKRs e métricas (NPS, MRR, TPV, CAC)</li>
+    <li>Discovery acelerado com IA — redução de ciclo de 6 para 2 semanas</li>
+    <li>Escrita de PRDs, User Stories e critérios de aceite para contextos regulados</li>
+    <li>Integrações técnicas com APIs e Webhooks</li>
+    <li>Interface entre engenharia, UX, C-Level e gestores de governo</li>
+  </ul>
+</details>
 ---
  
 ## Metodologias
