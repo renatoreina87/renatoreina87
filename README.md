@@ -161,14 +161,6 @@ convidado123@$
 </p>
 
 ---
-
-## 🔗 Protótipo
-
-Acesse o protótipo interativo:
-
-```bash
-https://SEU-LINK-DO-LOVABLE-AQUI
----
  
 ## Principais competências
  
