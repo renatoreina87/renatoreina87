@@ -122,34 +122,42 @@ Kanban • Scrum • Lean • Discovery • Delivery
         <img src="https://img.shields.io/badge/Visualizar%20Projeto-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
       </a>
     </td>
+
+    <td width="50%">
+      <h3>DataGov360 — Inteligência Estratégica para Gestão Municipal</h3>
+      <p>
+        Plataforma conceitual de inteligência de dados voltada para a gestão pública municipal, 
+        com foco em transformar dados brutos de diferentes sistemas governamentais em informações 
+        estratégicas, táticas e operacionais para apoiar a tomada de decisão.
+      </p>
+      <p>
+        <strong>Objetivo:</strong> demonstrar como indicadores públicos, como IEGM, IFiscal, arrecadação, 
+        saúde, educação e planejamento, podem ser organizados em uma visão 360º da administração municipal, 
+        apoiando uma gestão mais analítica, eficiente e orientada por dados.
+      </p>
+      <p>
+        <strong>Discovery:</strong> o projeto contemplou levantamento de requisitos, mapeamento de fontes 
+        de dados municipais, definição de KPIs, estruturação de regras de negócio, priorização de MVP 
+        e organização das jornadas por níveis de gestão: estratégico, tático e operacional.
+      </p>
+      <p>
+        <strong>Prototipação:</strong> o protótipo foi criado com apoio do Lovable, permitindo validar 
+        rapidamente dashboards, filtros, visualizações de indicadores, navegação por drill-down e 
+        experiências orientadas aos diferentes perfis de usuários públicos.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Lovable-FF5A5F?style=for-the-badge&logo=lovable&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Product%20Discovery-0A66C2?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Data%20Driven-1F7A8C?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/GovTech-0052CC?style=for-the-badge"/>
+      </p>
+      <a href="https://SEU-LINK-DO-LOVABLE-AQUI" target="_blank">
+        <img src="https://img.shields.io/badge/Visualizar%20Projeto-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+      </a>
+    </td>
   </tr>
 </table>
-
-<td width="50%">
-  <h3>DataGov360 — Inteligência Estratégica para Gestão Municipal</h3>
-  <p>
-    Plataforma conceitual de inteligência de dados para a gestão pública municipal, criada para 
-    transformar dados de sistemas governamentais em indicadores estratégicos, táticos e operacionais.
-  </p>
-  <p>
-    <strong>Objetivo:</strong> apoiar prefeitos, secretários e equipes técnicas na tomada de decisão 
-    baseada em dados, integrando indicadores como IEGM, IFiscal, arrecadação, saúde, educação e planejamento.
-  </p>
-  <p>
-    <strong>Atuação:</strong> condução de discovery, definição de MVP, mapeamento de KPIs, estruturação 
-    de jornadas por perfil de gestão e prototipação navegável com apoio de GenAI e Lovable.
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Lovable-FF5A5F?style=for-the-badge&logo=lovable&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Product%20Discovery-0A66C2?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Data%20Driven-1F7A8C?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/GovTech-0052CC?style=for-the-badge"/>
-  </p>
-  <a href="https://SEU-LINK-DO-LOVABLE-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Visualizar%20Projeto-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</td>
 
 
 ---
