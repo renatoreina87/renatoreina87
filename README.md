@@ -121,6 +121,10 @@ Kanban • Scrum • Lean • Discovery • Delivery
   <p>
     Plataforma conceitual de inteligência de dados para a gestão pública municipal, criada para 
     transformar dados de sistemas governamentais em indicadores estratégicos, táticos e operacionais.
+  <p>
+Você pode acessar e navegar no protótipo.
+usuario@convidado.com.br
+convidado123@$
   </p>
   <p>
     <strong>Objetivo:</strong> apoiar prefeitos, secretários e equipes técnicas na tomada de decisão 
