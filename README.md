@@ -84,7 +84,44 @@ Kanban • Scrum • Lean • Discovery • Delivery
 </p>
  
 </div>
- 
+---
+<h2>Portfólio de Produtos com GenAI</h2>
+
+<p>
+  Nesta seção, reúno produtos, protótipos e experimentações criadas com apoio de Inteligência Artificial Generativa, 
+  combinando visão de produto, discovery, prototipação rápida e ferramentas low-code/no-code.
+</p>
+
+<p>
+  O objetivo é transformar hipóteses de negócio em soluções navegáveis, permitindo validação rápida de jornadas, 
+  proposta de valor, usabilidade e aderência ao problema do usuário.
+</p>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Portal Municipal — Serviços na Palma da Mão</h3>
+      <p>
+        Solução conceitual voltada para o setor público, com foco em centralizar serviços municipais 
+        em uma experiência digital simples, acessível e orientada ao cidadão.
+      </p>
+      <p>
+        <strong>Objetivo:</strong> demonstrar como uma prefeitura pode oferecer serviços digitais 
+        de forma mais intuitiva, reduzindo atritos na jornada do cidadão e melhorando a percepção 
+        de eficiência da gestão pública.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/UX%20Prototype-FFB000?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/GovTech-0052CC?style=for-the-badge"/>
+      </p>
+      <a href="https://white-label-create.replit.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Visualizar%20Projeto-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 ---
  
 ## Principais competências
