@@ -66,6 +66,23 @@ Kanban • Scrum • Lean • Discovery • Delivery
 <div align="center">
  
 Jira • Confluence • Trello • Figma • Miro
+
+<h3>Ferramentas que utilizo no dia a dia</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=050038"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lovable-FF5A5F?style=for-the-badge&logo=lovable&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
+</p>
  
 </div>
  
