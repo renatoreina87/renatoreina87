@@ -42,18 +42,13 @@ Cases e análises de mercado.
  
 ## Atuação
  
-- Definição e priorização de backlog
+-Priorização de backlog orientada a OKRs e métricas de negócio (NPS, MRR, TPV, CAC);
+-Discovery acelerado com IA — redução de ciclo de 6 para 2 semanas;
+-Escrita de PRDs, User Stories e critérios de aceite para contextos regulados (B2G/fintech);
+-Integrações técnicas com APIs e Webhooks;
+-Gestão de roadmap em ambientes com restrição regulatória e múltiplos stakeholders;
+-Interface entre squads de engenharia, UX, C-Level e gestores de governo.
 
-- Escrita de histórias de usuário e critérios de aceite
-
-- Gestão de roadmap de produto
-
-- Acompanhamento de métricas e resultados
-
-- Comunicação com stakeholders
-
-- Suporte ao time de desenvolvimento
- 
 ---
  
 ## Metodologias
