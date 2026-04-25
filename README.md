@@ -31,7 +31,12 @@
  
 Product Manager com experiência na definição e evolução de produtos digitais, atuando entre negócio,experiencia de usuário e tecnologia.
  
-Foco na entrega contínua de valor, priorização estratégica de backlog e alinhamento entre stakeholders, garantindo que as soluções atendam às necessidades do usuário e aos objetivos do negócio.
+Especializado em mercados B2G e B2B, com passagem por Mercado Livre, Santander,Dasa e Sigcorp/Acaruiy Tecnologia.Aqui documento artefatos reais de produto - PRDs, frameworks de priorização, processos de Discovery e experimentos com IA aplicada ao desenvolvimento de produtos.
+O que você encontrará no meu Git:
+Documentação de produto (PRDs, User Stories, critérios de aceite)
+Frameworks de Discovery e validação de hipóteses;
+Experimentos com IA para aceleração de ciclos de produto;
+Cases e análises de mercado.
  
 ---
  
