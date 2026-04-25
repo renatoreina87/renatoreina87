@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/5511999999999?text=Olá,%20Renato!%20Vi%20seu%20perfil%20no%20GitHub." target="_blank">
+<a href="https://wa.me/5511991142546?text=Olá,%20Renato!%20Vi%20seu%20perfil%20no%20GitHub." target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
  
