@@ -42,7 +42,6 @@ Cases e análises de mercado.
  
 ## Atuação
  
-<details>
   <b>🛠 Expertise Técnica e de Produto</b>
   <ul>
     <li>Priorização de backlog orientada a OKRs e métricas (NPS, MRR, TPV, CAC)</li>
@@ -51,7 +50,7 @@ Cases e análises de mercado.
     <li>Integrações técnicas com APIs e Webhooks</li>
     <li>Interface entre engenharia, UX, C-Level e gestores de governo</li>
   </ul>
-</details>
+
 ---
  
 ## Metodologias
