@@ -43,7 +43,7 @@ Cases e análises de mercado.
 ## Atuação
  
 <details>
-  <b>🛠 Expertise Técnica e de Produto</b></summary>
+  <b>🛠 Expertise Técnica e de Produto</b>
   <ul>
     <li>Priorização de backlog orientada a OKRs e métricas (NPS, MRR, TPV, CAC)</li>
     <li>Discovery acelerado com IA — redução de ciclo de 6 para 2 semanas</li>
