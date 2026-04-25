@@ -141,12 +141,13 @@ convidado123@$
     <img src="https://img.shields.io/badge/Data%20Driven-1F7A8C?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/GovTech-0052CC?style=for-the-badge"/>
   </p>
-  <a href="https://SEU-LINK-DO-LOVABLE-AQUI" target="_blank">
+  <a href="https://datagov360.lovable.app/login" target="_blank">
     <img src="https://img.shields.io/badge/Visualizar%20Projeto-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
