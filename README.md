@@ -2,7 +2,7 @@
  
 <p align="center">
 
-  Product Owner | Gestão de Produtos | Agilidade | Foco em valor de negócio
+  Product Manager | Gestão de Produtos | Agilidade | Foco em valor de negócio
 </p>
  
 ---
@@ -15,8 +15,12 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
  
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:lr.martinelli@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5511999999999?text=Olá,%20Renato!%20Vi%20seu%20perfil%20no%20GitHub." target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
  
 </div>
