@@ -114,7 +114,7 @@ Kanban • Scrum • LeanUX • Design Thinking • Discovery • Delivery
     </td>
   </tr>
 </table>
----
+
 <table>
   <tr>
 <td width="50%">
