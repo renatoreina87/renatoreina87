@@ -57,7 +57,7 @@ Cases e análises de mercado.
  
 <div align="center">
  
-Kanban • Scrum • Lean • Discovery • Delivery
+Kanban • Scrum • LeanUX • Design Thinking • Discovery • Delivery
  
 </div>
  
