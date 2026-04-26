@@ -86,7 +86,7 @@ Kanban • Scrum • LeanUX • Design Thinking • Discovery • Delivery
  
 </div>
 ---
-> ### <b><h2>Portfólio de Produtos com GenAI</h2></b>
+> ## 🤖 Portfólio de Produtos com GenAI
 
 <p>
   Produtos, protótipos e soluções digitais criadas com apoio de Inteligência Artificial Generativa, 
