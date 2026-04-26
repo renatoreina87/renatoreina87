@@ -149,18 +149,6 @@ convidado123@$
 </table>
 
 ---
-
-## 🛠️ Tecnologias e Ferramentas Utilizadas
-
-<p>
-  <img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lovable-FF5A5F?style=for-the-badge&logo=lovable&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Product%20Discovery-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Driven-1F7A8C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GovTech-0052CC?style=for-the-badge"/>
-</p>
-
----
  
 ## Principais competências
  
