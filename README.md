@@ -85,6 +85,7 @@ Kanban • Scrum • LeanUX • Design Thinking • Discovery • Delivery
 </p>
  
 </div>
+
 ---
 
 > ### 🤖 Portfólio de Produtos com GenAI
