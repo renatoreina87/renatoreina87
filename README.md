@@ -102,14 +102,14 @@ Kanban • Scrum • LeanUX • Design Thinking • Discovery • Delivery
       <p>
         Protótipo de portal digital voltado à experiência do cidadão, com foco em facilitar o acesso 
         a serviços públicos municipais de forma simples, intuitiva e responsiva.
-
-       Entenda como foi feito o Disvocery https://github.com/renatoreina87/renatoreina87/wiki/Processo-de-Discovery
-       
+       Entenda como foi feito o Disvocery, clicando no botão abaixo       
       </p>
       <p>
         <img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Product%20Discovery-0A66C2?style=for-the-badge"/>
+        <a href="https://github.com/renatoreina87/renatoreina87/wiki/Processo-de-Discovery" target="_blank">
+  <img src="https://img.shields.io/badge/Product%20Discovery-0A66C2?style=for-the-badge"/>
+</a>
       </p>
       <a href="https://white-label-create.replit.app/" target="_blank">
         <img src="https://img.shields.io/badge/Acessar%20Produto-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
