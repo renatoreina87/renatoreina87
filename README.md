@@ -107,7 +107,7 @@ Kanban • Scrum • LeanUX • Design Thinking • Discovery • Delivery
       <p>
         <img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
-        <a href="https://github.com/renatoreina87/renatoreina87/wiki/Processo-de-Discovery" target="_blank">
+        <a href="https://github.com/renatoreina87/renatoreina87/wiki/Discovery-do-APP" target="_blank">
   <img src="https://img.shields.io/badge/Product%20Discovery-0A66C2?style=for-the-badge"/>
 </a>
       </p>
