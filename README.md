@@ -2,7 +2,7 @@
  
 <p align="center">
 
-  Product Manager | Gestão de Produtos | Gestão de Produtos com IA|
+  Product Manager | Gestão de Produtos | Gestão de Produtos com IA | Liderança de Produtos
 </p>
  
 ---
