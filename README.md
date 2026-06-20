@@ -2,7 +2,7 @@
  
 <p align="center">
 
-  Product Manager | Gestão de Produtos | Agilidade | Foco em valor de negócio
+  Product Manager | Gestão de Produtos | Gestão de Produtos com IA|
 </p>
  
 ---
